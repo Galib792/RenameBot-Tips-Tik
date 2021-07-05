@@ -10,10 +10,10 @@
         "renamer"
     ],
 
-    "repository": "https://github.com/Ns-AnoNymouS/Renamer",
+    "repository": "https://github.com/Galib792/RenameBot2.V",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "https://t.me/Tips_Tik_Discussion",
+    "success_url": "https://t.me/Tips_Tik",
 
     "env": {
         "API_HASH": {
