@@ -16,17 +16,17 @@ class TEXT:
 
 ** My Name:** {bot_name}
     
-** Language:** [Python 3](https://www.python.org/)
+** YouTube:** [Channel](https://www.youtube.com/c/TipsTik)
 
 ** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Tips_Tik)
+** Channel:** [Tips Tik](https://t.me/Tips_Tik)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Tips_Tik_discussion)
+** Group:** [Tips Tik Group](https://t.me/Tips_Tik_discussion)
 
-** Source Code:** [Press Me](https://t.me/Tips_Tik_discussion)
+** Source Code:** [Ask Here](https://t.me/Tips_Tik_discussion)
 """
 
     HELP_USER = """**Follow Below Steps:**
