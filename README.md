@@ -26,7 +26,7 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Galib792/RenameBot2.V)
 
 ## Bot Features 🔥
 - Renaming Telegram files as file or video.
@@ -98,8 +98,4 @@ login - (when password is given) to login to bot
 - [ ] Increasing error handlers
 
 ## Thanks And Credits 🎉
-[SpEcHiDe](https://github.com/SpEcHiDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
-
-[Dan](https://telegram.dog/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram)
-
-[MaheshMalekar ❤](https://telegram.dog/MaheshMalekar) for teaching me python
+[Galib](https://github.com/Galib792) for his [Rename Bot](https://github.com/Galib792/RenameBot2.V)
